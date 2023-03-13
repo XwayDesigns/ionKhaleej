@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "1bd-09-IXN"; */
+"1bd-09-IXN.text" = "Select Category";
+
+/* Class = "UITabBarItem"; title = "FAVORITES"; ObjectID = "1hb-RT-qEt"; */
+"1hb-RT-qEt.title" = "FAVORITES";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2LD-an-WXi"; */
+"2LD-an-WXi.text" = "Label";
+
+/* Class = "UILabel"; text = "عربی"; ObjectID = "5Xg-6U-l9b"; */
+"5Xg-6U-l9b.text" = "عربی";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "84A-Wf-cRR"; */
+"84A-Wf-cRR.text" = "Select Category";
+
+/* Class = "UITabBarItem"; title = "HOME"; ObjectID = "9Zo-iG-dB9"; */
+"9Zo-iG-dB9.title" = "HOME";
+
+/* Class = "UIButton"; configuration.title = "Home"; ObjectID = "AGi-l8-s3g"; */
+"AGi-l8-s3g.configuration.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AGi-l8-s3g"; */
+"AGi-l8-s3g.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BKj-PS-2y9"; */
+"BKj-PS-2y9.text" = "Label";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "C19-kK-m2v"; */
+"C19-kK-m2v.text" = "Categories";
+
+/* Class = "UIButton"; configuration.title = "Privacy Policy"; ObjectID = "CxM-Sd-yLF"; */
+"CxM-Sd-yLF.configuration.title" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CxM-Sd-yLF"; */
+"CxM-Sd-yLF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "EYE-Sk-AJQ"; */
+"EYE-Sk-AJQ.text" = "English";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "EcY-Ba-9Nd"; */
+"EcY-Ba-9Nd.text" = "About Us";
+
+/* Class = "UIButton"; configuration.title = "Terms and Conditions"; ObjectID = "HvW-OW-Psr"; */
+"HvW-OW-Psr.configuration.title" = "Terms and Conditions";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HvW-OW-Psr"; */
+"HvW-OW-Psr.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "VOD"; ObjectID = "Igg-1P-Yte"; */
+"Igg-1P-Yte.title" = "VOD";
+
+/* Class = "UILabel"; text = "FAVORITES"; ObjectID = "OBt-Ll-nRv"; */
+"OBt-Ll-nRv.text" = "FAVORITES";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QMA-FV-jr0"; */
+"QMA-FV-jr0.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "TV Guide"; ObjectID = "SkC-Nm-VJK"; */
+"SkC-Nm-VJK.configuration.title" = "TV Guide";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SkC-Nm-VJK"; */
+"SkC-Nm-VJK.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "St0-Fn-BBk"; */
+"St0-Fn-BBk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T3C-Hf-KrK"; */
+"T3C-Hf-KrK.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "About Us"; ObjectID = "Tit-wH-eWd"; */
+"Tit-wH-eWd.configuration.title" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tit-wH-eWd"; */
+"Tit-wH-eWd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Channel Name"; ObjectID = "YHm-vd-HHk"; */
+"YHm-vd-HHk.text" = "Channel Name";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "d0c-dH-Rxk"; */
+"d0c-dH-Rxk.text" = "About";
+
+/* Class = "UILabel"; text = "Live Channels"; ObjectID = "hQp-aR-VrX"; */
+"hQp-aR-VrX.text" = "Live Channels";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "hf8-IY-BHX"; */
+"hf8-IY-BHX.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nGw-0D-E65"; */
+"nGw-0D-E65.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oBx-W9-cQf"; */
+"oBx-W9-cQf.text" = "Label";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "pfc-vY-4dN"; */
+"pfc-vY-4dN.text" = "Company Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ppW-B2-GbK"; */
+"ppW-B2-GbK.text" = "Label";
+
+/* Class = "UILabel"; text = "TV"; ObjectID = "r6n-zD-fRu"; */
+"r6n-zD-fRu.text" = "TV";
+
+/* Class = "UILabel"; text = "VOD"; ObjectID = "r9H-n9-0TP"; */
+"r9H-n9-0TP.text" = "VOD";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "sHS-cO-gOR"; */
+"sHS-cO-gOR.text" = "Mobile";
+
+/* Class = "UITabBarItem"; title = "TV"; ObjectID = "sXy-xY-c3g"; */
+"sXy-xY-c3g.title" = "TV";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uGd-4S-rgY"; */
+"uGd-4S-rgY.text" = "Label";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "uiQ-6e-aQw"; */
+"uiQ-6e-aQw.text" = "Email";
+
+/* Class = "UITabBarItem"; title = "INFO"; ObjectID = "y7j-t3-vji"; */
+"y7j-t3-vji.title" = "INFO";
+
+/* Class = "UIButton"; configuration.title = "Disclaimer"; ObjectID = "zcC-tn-UT2"; */
+"zcC-tn-UT2.configuration.title" = "Disclaimer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zcC-tn-UT2"; */
+"zcC-tn-UT2.normalTitle" = "Button";

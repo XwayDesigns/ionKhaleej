@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  ionKhaleej
+
+  Created by Mohammad Tariq Shamim on 18/04/23.
+  
+*/
+"HOME" = "Home";
+"TV" = "TV";
+"FAVORITES" = "FAVORITES";
+"VOD" = "VOD";
+"INFO" = "INFO";
+"Channels" = "Channels";
+"Live Channels" = "Live Channels";
+"TV" = "TV";
+"Select Category" = "Select Category";
+"Favourites" = "Favourites";
+"Home" = "Home";
+"TV Guide" = "TV Guide";
+"About Us" = "About Us";
+"Disclaimer" = "Disclaimer";
+"Privacy Policy" = "Privacy Policy";
+"Terms and Conditions" = "Terms and Conditions";
+"Language" = "Language";
